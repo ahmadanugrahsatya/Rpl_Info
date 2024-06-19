@@ -89,7 +89,7 @@ $info2 = $conn->query("SELECT * FROM info WHERE status = 'Belum dikonfirmasi' OR
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kelola Info</title>
     <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../styles/crud_info.css" rel="stylesheet">
+    <link href="../css/crud_info.css" rel="stylesheet">
 </head>
 <body>
     <style>

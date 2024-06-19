@@ -21,7 +21,7 @@ if (!$info) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Detail Info</title>
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="styles/style.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
 </head>
 <body>
     <style>
